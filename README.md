@@ -43,7 +43,9 @@ git checkout -b <branch-name>
 ```
 
 #### Add the above code in the [yourCard/data.json](https://github.com/acm-mjct/Utilities/blob/main/yourCard/data.json) file
+![image](https://user-images.githubusercontent.com/69213593/198101479-e187cc4a-95a6-42d9-a381-721eb3318e69.png)
 
+Pushing to the repository
 ```terminal
 git add .
 git commit -m "Commit Message"
