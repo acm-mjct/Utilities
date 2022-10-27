@@ -38,5 +38,15 @@
         "nameOnHover": "Sarcaster"
       }
     ]
+  },
+  {
+    "username": "Awais Ahmed",
+    "avatar": "https://i.pinimg.com/originals/21/cf/0d/21cf0d7d01cb6af6513717ec07594188.jpg",
+    "socialMedia": [
+      {
+        "link": "https://github.com/9246-AwaisAhmed",
+        "nameOnHover": "Awais Ahmed"
+      }
+    ]
   }
 ]
