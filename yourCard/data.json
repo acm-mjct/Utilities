@@ -40,6 +40,7 @@
     ]
   },
   {
+<<<<<<< HEAD
     "username": "YOUR NAME",
     "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
     "socialMedia": [
@@ -58,5 +59,15 @@
       "nameOnHover": "Maliha Zia"
     }
   ]
+=======
+    "username": "Msarwath18",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/Msarwath18",
+        "nameOnHover": "Maliha Zia"
+      }
+    ]
+>>>>>>> 705a4238e757952c93a28d41ced575d7aed0f295
   }
 ]
