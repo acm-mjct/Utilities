@@ -40,7 +40,21 @@
     ]
   },
   {
+<<<<<<< HEAD
   "username": "abdul-rehmant",
+=======
+    "username": "YOUR NAME",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/legendhimslef",
+        "nameOnHover": "YOUR NAME ON HOVER"
+      }
+    ]
+  },
+  {    
+  "username": "YOUR NAME",
+>>>>>>> 78633237b452615dea8c8ba483953575a97314ec
   "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
   "socialMedia": [
     {
