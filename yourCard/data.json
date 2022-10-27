@@ -1,4 +1,4 @@
-[
+
   {
     "username": "YOUR NAME",
     "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
@@ -38,5 +38,15 @@
         "nameOnHover": "Sarcaster"
       }
     ]
+  },
+  {
+    "username": "Syeda Sania",
+    "avatar": "https://instagram.fhyd5-1.fna.fbcdn.net/v/t51.2885-19/312833035_172311868793229_8661655822263585882_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fhyd5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OSS_62jElaUAX82vcTh&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfA8Xo-7UT91KSY3sTr6anSO3I2UiYG9aRiTk5kQsyl0Qg&oe=635E8AEA&_nc_sid=8fd12b",
+    "socialMedia": [
+      {
+        "link": "https://github.com/Sania0610",
+        "nameOnHover": "Syeda Sania"
+      }
+    ]
   }
-]
+
