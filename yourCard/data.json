@@ -58,5 +58,15 @@
       "nameOnHover": "YOUR NAME ON HOVER"
     }
   ]
+  },
+  {
+    "username": "Abrar Ahmed",
+    "avatar": "https://i.pinimg.com/originals/84/aa/0d/84aa0dadd6cbd869bf40397a1a59e4cb.jpg",
+    "socialMedia": [
+      {
+        "link": "https://github.com/abrarahmedb4u",
+        "nameOnHover": "hi"
+      }
+    ]
   }
 ]
