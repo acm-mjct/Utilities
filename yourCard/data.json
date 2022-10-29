@@ -58,5 +58,15 @@
       "nameOnHover": "YOUR NAME ON HOVER"
     }
   ]
+  },
+  {
+    "username": "maryam khanita",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/maryam1812",
+        "nameOnHover": "maryam"
+      }
+    ]
   }
 ]
