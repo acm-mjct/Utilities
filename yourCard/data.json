@@ -57,7 +57,8 @@
       "link": "https://github.com/naziya2002/Utilities.git",
       "nameOnHover": "NAZIYA ANJUM"
     }
-  ]
+   ]
+  },
   {
     "username": "NAZIYA ANJUM",
     "avatar": "https://tse2.mm.bing.net/th?id=OIP.flg5xoWkhCopxdyqKnnYwwHaEt&pid=Api&P=0",
@@ -327,5 +328,15 @@
         "nameOnHover": "hi"
       }
     ]
+  },
+  {
+    "username": "Syeda Sania",
+    "avatar": "https://instagram.fhyd5-1.fna.fbcdn.net/v/t51.2885-19/312833035_172311868793229_8661655822263585882_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fhyd5-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=OSS_62jElaUAX82vcTh&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfA8Xo-7UT91KSY3sTr6anSO3I2UiYG9aRiTk5kQsyl0Qg&oe=635E8AEA&_nc_sid=8fd12b",
+    "socialMedia": [
+      {
+        "link": "https://github.com/Sania0610",
+        "nameOnHover": "Syeda Sania"
+      }
+   ]
   }
 ]
