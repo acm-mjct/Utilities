@@ -1,9 +1,11 @@
 #include<stdio.h>
+#include<conio.h>
 
 int main()
 {
     int arr[10];
     int pos,i,n;
+
     printf("Enter number of elements: \n");
     scanf("%d",&n);
     printf("Enter elements in array: \n");
