@@ -468,6 +468,14 @@
         "nameOnHover": "SUFYII"
       }
      ]
+    },
+    {
+  "username": "rida",
+  "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+  "socialMedia": [
+    {
+      "link": "https://github.com/rida",
+      "nameOnHover": "rida"
     }
   ]
 },
@@ -481,4 +489,27 @@
      }
    ]
  }
+}, 
+{
+    "username": "TAHINIYATH SHEREEN",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/TAHINIYATH SHEREEN",
+        "nameOnHover": "TAHINIYATH SHEREEN"
+      }
+     ]
+   }
+   ]
+  },
+{
+    "username": "rayyan",
+        "avatar": "https://avatars.githubusercontent.com/u/69739582?s=400&u=26c4ec65ee7886cfaa1ad160e9d71cb380f92917&v=4",
+        "socialMedia": [
+          {
+            "link": "https://github.com/RayyanUddin",
+            "nameOnHover": "rayyan"
+          }
+        ]
+  }
 ]
