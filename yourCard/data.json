@@ -430,16 +430,56 @@
     ]
   },
   {
-  "username": "nihal3000",
-  "avatar": "https://unsplash.com/photos/n-2_KHgeAy0",
+    "username": "nihal3000",
+    "avatar": "https://unsplash.com/photos/n-2_KHgeAy0",
+    "socialMedia": [
+      {
+        "link": "https://github.com/nihal3000",
+        "nameOnHover": "MY GOALS ARE BEYOND YOUR UNDERSTANDING"
+      }
+    ]
+  },
+  {
+  "username": "QadijaS",
+  "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
   "socialMedia": [
     {
-      "link": "https://github.com/nihal3000",
-      "nameOnHover": "MY GOALS ARE BEYOND YOUR UNDERSTANDING"
+      "link": "https://github.com/legendhimslef",
+      "nameOnHover": "QadijaS"
     }
    ]
   },
   {
+    "username": "ishrathfarheen",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/ishrathfarheen",
+        "nameOnHover": "Ishrath"
+      }
+    ]
+  },
+  {
+    "username": "SUFYII",
+    "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlower&psig=AOvVaw3KpaUwwJi5eMsLF74fSMyC&ust=1666951162867000&source=images&cd=vfe&ved=2ahUKEwiNntGQk4D7AhWiKbcAHRNyA7EQr4kDegUIARDnAQ",
+    "socialMedia": [
+      {
+        "link": "https://github.com/sufyii454",
+        "nameOnHover": "SUFYII"
+      }
+     ]
+    },
+    {
+  "username": "rida",
+  "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+  "socialMedia": [
+    {
+      "link": "https://github.com/rida",
+      "nameOnHover": "rida"
+    }
+   ]
+  },
+{
     "username": "rayyan",
         "avatar": "https://avatars.githubusercontent.com/u/69739582?s=400&u=26c4ec65ee7886cfaa1ad160e9d71cb380f92917&v=4",
         "socialMedia": [
@@ -447,6 +487,6 @@
             "link": "https://github.com/RayyanUddin",
             "nameOnHover": "rayyan"
           }
-    ]
+        ]
   }
 ]
