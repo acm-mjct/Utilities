@@ -9,7 +9,7 @@
       }
     ]
   },
-    {
+  {
     "username": "Adeeb",
     "avatar": "https://avatars.githubusercontent.com/u/54802363?v=4",
     "socialMedia": [
@@ -48,16 +48,16 @@
         "nameOnHover": "Zohra Fathima"
       }
     ]
-  }, 
+  },
   {
-  "username": "MOHD ABDUL ALEEM",
-  "avatar": "https://avatars.githubusercontent.com/u/94796142?v=4",
-  "socialMedia": [
-    {
-      "link": "https://github.com/mohdaleem061",
-      "nameOnHover": "Aleem"
-    }
-  ]
+    "username": "MOHD ABDUL ALEEM",
+    "avatar": "https://avatars.githubusercontent.com/u/94796142?v=4",
+    "socialMedia": [
+      {
+        "link": "https://github.com/mohdaleem061",
+        "nameOnHover": "Aleem"
+      }
+    ]
   },
   {
     "username": "Md-Zakir-Ahmed7",
