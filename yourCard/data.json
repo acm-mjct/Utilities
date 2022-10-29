@@ -154,8 +154,8 @@
     "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
     "socialMedia": [
       {
-        "link": "https://github.com/legendhimslef",
-        "nameOnHover": "YOUR NAME ON HOVER"
+        "link": "https://github.com/Sameeruddin8",
+        "nameOnHover": "Md Sameeruddin"
       }
     ]
   },
@@ -188,5 +188,15 @@
         "nameOnHover": "Mehveen Fatima"
       }
     ]
-  }
+  },
+  {
+   "username": "Md Sameeruddin",
+   "avatar": "https://avatars.githubusercontent.com/u/98103957?s=400&u=6e8691ce728679a89e77dbea56fbef7510280217&v=4",
+    "socialMedia": [
+      {
+        "link": "https://github.com/Sameeruddin8",
+        "nameOnHover": "Md Sameeruddin"
+      }
+    ]
+  }  
 ]
