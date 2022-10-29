@@ -40,23 +40,15 @@
     ]
   },
   {
-    "username": "YOUR NAME",
+    "username": "Md Sameeruddin",
     "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
     "socialMedia": [
       {
-        "link": "https://github.com/legendhimslef",
-        "nameOnHover": "YOUR NAME ON HOVER"
+        "link": "https://github.com/Sameeruddin8",
+        "nameOnHover": "Md Sameeruddin"
       }
     ]
-  },
-  {    
-  "username": "YOUR NAME",
-  "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
-  "socialMedia": [
-    {
-      "link": "https://github.com/legendhimslef",
-      "nameOnHover": "YOUR NAME ON HOVER"
-    }
-  ]
   }
+ 
+  
 ]
