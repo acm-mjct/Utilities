@@ -490,5 +490,15 @@
      ]
    }
    ]
+  },
+{
+    "username": "rayyan",
+        "avatar": "https://avatars.githubusercontent.com/u/69739582?s=400&u=26c4ec65ee7886cfaa1ad160e9d71cb380f92917&v=4",
+        "socialMedia": [
+          {
+            "link": "https://github.com/RayyanUddin",
+            "nameOnHover": "rayyan"
+          }
+        ]
   }
 ]
