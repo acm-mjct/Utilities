@@ -85,7 +85,7 @@
     "socialMedia": [
       {
         "link": "https://github.com/Kas-999",
-        "nameOnHover": "YOUR NAME ON HOVER"
+        "nameOnHover": "SYED K"
       }
     ]
   },
@@ -384,7 +384,7 @@
     "avatar": "https://instagram.fhyd10-1.fna.fbcdn.net/v/t51.2885-15/307295345_146688281391662_8136801552125642888_n.webp?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fhyd10-1.fna.fbcdn.net&_nc_cat=102&_nc_ohc=Is9nWPdaE10AX_QN64Y&tn=vLlYELN3yVyc_cWC&edm=ALQROFkBAAAA&ccb=7-5&ig_cache_key=MjkzMDIzOTI5MTIxOTI5NjQ3Ng%3D%3D.2-ccb7-5&oh=00_AT_XY-Qn_KCieYOJ3gzJZUIwTy8T0dwsaXheqsW7wEpAYg&oe=635C1472&_nc_sid=30a2ef",
     "socialMedia": [
       {
-        "link": "https://github.com/legendhimslef",
+        "link": "https://github.com/faizshareef",
         "nameOnHover": "faizshareef"
       }
     ]
@@ -440,14 +440,14 @@
     ]
   },
   {
-  "username": "QadijaS",
-  "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
-  "socialMedia": [
-    {
-      "link": "https://github.com/legendhimslef",
-      "nameOnHover": "QadijaS"
-    }
-   ]
+    "username": "QadijaS",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/QadijaS",
+        "nameOnHover": "QadijaS"
+      }
+    ]
   },
   {
     "username": "ishrathfarheen",
@@ -467,30 +467,29 @@
         "link": "https://github.com/sufyii454",
         "nameOnHover": "SUFYII"
       }
-     ]
-    },
-    {
-  "username": "rida",
-  "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
-  "socialMedia": [
-    {
-      "link": "https://github.com/rida",
-      "nameOnHover": "rida"
-    }
-  ]
-},
- {
-   "username": "salahuddin1303",
-   "avatar": "https://www.purefandom.com/wp-content/uploads/2015/09/klausheadshot.png",
-   "socialMedia": [
-     {
-       "link": "https://github.com/salahuddin1303",
-       "nameOnHover": "mohd salah uddin"
-     }
-   ]
- }
-}, 
-{
+    ]
+  },
+  {
+    "username": "rida",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/rida",
+        "nameOnHover": "rida"
+      }
+    ]
+  },
+  {
+    "username": "salahuddin1303",
+    "avatar": "https://www.purefandom.com/wp-content/uploads/2015/09/klausheadshot.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/salahuddin1303",
+        "nameOnHover": "mohd salah uddin"
+      }
+    ]
+  },
+  {
     "username": "TAHINIYATH SHEREEN",
     "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
     "socialMedia": [
@@ -498,18 +497,16 @@
         "link": "https://github.com/TAHINIYATH SHEREEN",
         "nameOnHover": "TAHINIYATH SHEREEN"
       }
-     ]
-   }
-   ]
+    ]
   },
-{
+  {
     "username": "rayyan",
-        "avatar": "https://avatars.githubusercontent.com/u/69739582?s=400&u=26c4ec65ee7886cfaa1ad160e9d71cb380f92917&v=4",
-        "socialMedia": [
-          {
-            "link": "https://github.com/RayyanUddin",
-            "nameOnHover": "rayyan"
-          }
-        ]
+    "avatar": "https://avatars.githubusercontent.com/u/69739582?s=400&u=26c4ec65ee7886cfaa1ad160e9d71cb380f92917&v=4",
+    "socialMedia": [
+      {
+        "link": "https://github.com/RayyanUddin",
+        "nameOnHover": "rayyan"
+      }
+    ]
   }
 ]
