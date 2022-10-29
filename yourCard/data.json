@@ -36,6 +36,16 @@
       {
         "link": "https://github.com/sarcasterXO",
         "nameOnHover": "Sarcaster"
+      },
+      {
+        "username": "sanya begam",
+        "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+        "socialMedia": [
+          {
+            "link": "https://github.com/sanya123tech",
+            "nameOnHover": "sanya"
+          }
+        ]
       }
     ]
   },
