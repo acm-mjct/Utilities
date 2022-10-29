@@ -1,3 +1,7 @@
+int add(int a, int b){
+  return a+b;
+}
+
 #include <stdio.h>
 int main() {    
 
