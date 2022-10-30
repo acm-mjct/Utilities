@@ -598,5 +598,55 @@
         "nameOnHover": "rukhsar"
       }
     ]
-  }
+  },
+  {
+    "username": "Nazish Ahmed",
+    "avatar": "https://avatars.githubusercontent.com/u/84974655?v=4",
+    "socialMedia": [
+      {
+        "link": "https://github.com/nazish-16",
+        "nameOnHover": "Frezz1ck"
+      }
+     ]
+  },
+  {
+    "username": "Affan",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/affan6aq",
+        "nameOnHover": "Affan"
+      }
+    ]
+  },
+  {
+  "username": "Nazish Ahmed",
+  "avatar": "https://avatars.githubusercontent.com/u/84974655?v=4",
+  "socialMedia": [
+    {
+      "link": "https://github.com/nazish-16",
+      "nameOnHover": "Nazzish"
+    }
+  ]
+  },
+  {
+    "username": "Mohd Zeeshan ",
+    "avatar": "https://i.pinimg.com/originals/0f/3e/90/0f3e90aa5d5b871a172e5445a521d512.jpg",
+    "socialMedia": [
+      {
+        "link": "https://github.com/zappy586",
+        "nameOnHover": "Revenge is a fool's game"
+      }
+     ]
+  },
+  {
+    "username": "SUFYII",
+    "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlower&psig=AOvVaw3KpaUwwJi5eMsLF74fSMyC&ust=1666951162867000&source=images&cd=vfe&ved=2ahUKEwiNntGQk4D7AhWiKbcAHRNyA7EQr4kDegUIARDnAQ",
+    "socialMedia": [
+      {
+        "link": "https://github.com/sufyii454",
+        "nameOnHover": "SUFYII"
+      }
+     ]
+   }
 ]
