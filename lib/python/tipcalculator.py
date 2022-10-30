@@ -8,11 +8,6 @@ num_of_split = int(input("How many people to split the bill? "))
 
 calculate_bill = bill * (1 + (tip/100)) / num_of_split
 
-split = int(input("How many people to split the bill? "))
-
-calculate_bill = bill * (1 + (tip/100)) / split
-
-
 final_amount = "{:.2f}".format(calculate_bill, 2)
 
 if tip == 10:
@@ -21,4 +16,4 @@ elif tip == 12:
         print(f"Each person should pay: ${final_amount}")
 else:
         print(f"Each person should pay: ${final_amount}")
-        print(f"Each person should pay: ${final_amount}")
+
