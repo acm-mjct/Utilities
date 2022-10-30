@@ -1,9 +1,6 @@
-int add(int a, int b){
-  return a+b;
-}
-
 #include <stdio.h>
-int main() {    
+int main()
+{    
 
     int number1, number2, sum;
     
