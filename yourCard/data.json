@@ -599,7 +599,17 @@
       }
     ]
   },
-
+  {
+    "username": "Affan",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/affan6aq",
+        "nameOnHover": "Affan"
+      }
+    ]
+  },
+  {
     "username": "Mohd Zeeshan ",
     "avatar": "https://i.pinimg.com/originals/0f/3e/90/0f3e90aa5d5b871a172e5445a521d512.jpg",
     "socialMedia": [
@@ -607,6 +617,6 @@
         "link": "https://github.com/zappy586",
         "nameOnHover": "Revenge is a fool's game"
       }
-    ]
+     ]
   }
 ]
