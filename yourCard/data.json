@@ -588,5 +588,15 @@
         "nameOnHover": "Zoya"
       }
     ]
+  },
+  {
+    "username": "Maryum Urooj Ahmed",
+    "avatar": "https://avatarfiles.alphacoders.com/238/238280.jpg",
+    "socialMedia": [
+      {
+        "link": "https://github.com/maryumurooj",
+        "nameOnHover": "UROOJ The Human Alive"
+      }
+    ]
   }
 ]
