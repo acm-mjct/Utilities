@@ -540,12 +540,12 @@
     ]
   },
   {
-    "username": "Rukhsar Farheen",
+    "username": "Tallha Khan",
     "avatar": "https://t4.ftcdn.net/jpg/04/70/29/97/360_F_470299797_UD0eoVMMSUbHCcNJCdv2t8B2g1GVqYgs.jpg",
     "socialMedia": [
       {
-        "link": "https://github.com/rukhsar15",
-        "nameOnHover": "Rukhsar"
+        "link": "https://github.com/tallha-khan",
+        "nameOnHover": "tallha-khan"
       }
     ]
   },
@@ -576,6 +576,16 @@
       {
         "link": "https://github.com/Zoya127",
         "nameOnHover": "Zoya"
+      }
+    ]
+  }
+  {
+    "username": "Rukhsar Farheen",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/rukhsa15",
+        "nameOnHover": "rukhsar"
       }
     ]
   }
