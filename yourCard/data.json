@@ -630,6 +630,16 @@
     ]
   },
   {
+    "username": "Jaddi",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/legendhimslef",
+        "nameOnHover": "Jadd"
+      }
+    ]
+  },
+  {
     "username": "Nazish Ahmed",
     "avatar": "https://avatars.githubusercontent.com/u/84974655?v=4",
     "socialMedia": [
@@ -680,3 +690,4 @@
      ]
    }
 ]
+
