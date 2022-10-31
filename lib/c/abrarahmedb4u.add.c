@@ -10,3 +10,4 @@ int main (){
     scanf ("%d",&b);
     printf("%d",add(a,b));
 }
+
