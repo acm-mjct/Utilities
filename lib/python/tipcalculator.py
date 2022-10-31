@@ -15,3 +15,4 @@ elif tip == 12:
         print(f"Each person should pay: ${final_amount}")
 else:
         print(f"Each person should pay: ${final_amount}")
+
