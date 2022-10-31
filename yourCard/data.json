@@ -679,15 +679,15 @@
       }
     ]
   },
-  {    
-  "username": "NAZIYA ANJUM",
-  "avatar": "https://tse2.mm.bing.net/th?id=OIP.flg5xoWkhCopxdyqKnnYwwHaEt&pid=Api&P=0",
-  "socialMedia": [
-    {
-      "link": "https://github.com/naziya2002/Utilities.git",
-      "nameOnHover": "NAZIYA ANJUM"
-    }
-   ]
+  {
+    "username": "NAZIYA ANJUM",
+    "avatar": "https://tse2.mm.bing.net/th?id=OIP.flg5xoWkhCopxdyqKnnYwwHaEt&pid=Api&P=0",
+    "socialMedia": [
+      {
+        "link": "https://github.com/naziya2002/Utilities.git",
+        "nameOnHover": "NAZIYA ANJUM"
+      }
+    ]
   },
   {
     "username": "NADIA SADAF",
@@ -700,14 +700,14 @@
     ]
   },
   {
-  "username": "Nazish Ahmed",
-  "avatar": "https://avatars.githubusercontent.com/u/84974655?v=4",
-  "socialMedia": [
-    {
-      "link": "https://github.com/nazish-16",
-      "nameOnHover": "Nazzish"
-    }
-  ]
+    "username": "Nazish Ahmed",
+    "avatar": "https://avatars.githubusercontent.com/u/84974655?v=4",
+    "socialMedia": [
+      {
+        "link": "https://github.com/nazish-16",
+        "nameOnHover": "Nazzish"
+      }
+    ]
   },
   {
     "username": "Mohd Zeeshan ",
@@ -717,7 +717,7 @@
         "link": "https://github.com/zappy586",
         "nameOnHover": "Revenge is a fool's game"
       }
-     ]
+    ]
   },
   {
     "username": "SUFYII",
@@ -727,7 +727,7 @@
         "link": "https://github.com/sufyii454",
         "nameOnHover": "SUFYII"
       }
-     ]
+    ]
   },
   {
     "username": "Naisha Fatima",
@@ -736,10 +736,10 @@
       {
         "link": "https://github.com/NaishaFatima21",
         "nameOnHover": "Naisha Fatima"
-       }
-     ]
-   },
-   {
+      }
+    ]
+  },
+  {
     "username": "NADIA SADAF",
     "avatar": "",
     "socialMedia": [
@@ -760,13 +760,13 @@
     ]
   },
   {
-  "username": "nihal3000",
-  "avatar": "https://unsplash.com/photos/n-2_KHgeAy0",
-  "socialMedia": [
-    {
-      "link": "https://github.com/nihal3000",
-      "nameOnHover": "MY GOALS ARE BEYOND YOUR UNDERSTANDING"
-    }
-  ]
-} 
+    "username": "nihal3000",
+    "avatar": "https://unsplash.com/photos/n-2_KHgeAy0",
+    "socialMedia": [
+      {
+        "link": "https://github.com/nihal3000",
+        "nameOnHover": "MY GOALS ARE BEYOND YOUR UNDERSTANDING"
+      }
+    ]
+  }
 ]
