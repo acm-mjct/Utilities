@@ -4,5 +4,10 @@ int add(int a , int b ){
     return y;
 }
 int main (){
-    printf("%d",add(2,3));
+    int a, b;
+    printf ("enter the value of a and b ");
+    scanf ("%d ", &a);
+    scanf ("%d",&b);
+    printf("%d",add(a,b));
 }
+
