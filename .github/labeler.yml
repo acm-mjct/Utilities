@@ -1,0 +1,7 @@
+hacktoberfest-accepted:
+- '*'
+- lib/*
+- lib/**/*
+- yourCard/*
+- yourCard/**/*
+  
