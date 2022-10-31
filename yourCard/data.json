@@ -466,6 +466,16 @@
       {
         "link": "https://github.com/sarcasterXO",
         "nameOnHover": "Sarcaster"
+      },
+      {
+        "username": "sanya begam",
+        "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+        "socialMedia": [
+          {
+            "link": "https://github.com/sanya123tech",
+            "nameOnHover": "sanya"
+          }
+        ]
       }
     ]
   },
@@ -580,6 +590,16 @@
     ]
   },
   {
+    "username": "yasir ",
+    "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinkvilla.com%2Fentertainment%2Fhollywood%2Fryan-reynoldss-deadpool-could-appear-mcu-different-avatar-details-inside-458658&psig=AOvVaw2FHBF-OD8WFio11xQG8zoI&ust=1667228896540000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCNDcwuSoiPsCFQAAAAAdAAAAABAD",
+    "socialMedia": [
+      {
+        "link": "https://github.com/yasir027",
+        "nameOnHover": "yasir"
+      }
+    ]
+  },
+  {
     "username": "Maryum Urooj Ahmed",
     "avatar": "https://avatarfiles.alphacoders.com/238/238280.jpg",
     "socialMedia": [
@@ -598,5 +618,105 @@
         "nameOnHover": "rukhsar"
       }
     ]
-  }
+  },
+  {
+    "username": " SHAHEERA KUBRA",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/legendhimslef",
+        "nameOnHover": "SHAHEERA KUBRA"
+      }
+    ]
+  },
+  {
+    "username": "Madiha Siddique",
+    "avatar": "https://deadline.com/wp-content/uploads/2022/06/Netflix-The-Chosen-One.jpg?w=1000",
+    "socialMedia": [
+      {
+        "link": "https://github.com/MadihaSiddique",
+        "nameOnHover": "MadihaSid"
+      }
+    ]
+  },
+  {
+    "username": "Jaddi",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/legendhimslef",
+        "nameOnHover": "Jadd"
+      }
+    ]
+  },
+  {
+    "username": "Nazish Ahmed",
+    "avatar": "https://avatars.githubusercontent.com/u/84974655?v=4",
+    "socialMedia": [
+      {
+        "link": "https://github.com/nazish-16",
+        "nameOnHover": "Frezz1ck"
+      }
+     ]
+  },
+  {
+    "username": "Affan",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/affan6aq",
+        "nameOnHover": "Affan"
+      }
+    ]
+  },
+  {    
+  "username": "NAZIYA ANJUM",
+  "avatar": "https://tse2.mm.bing.net/th?id=OIP.flg5xoWkhCopxdyqKnnYwwHaEt&pid=Api&P=0",
+  "socialMedia": [
+    {
+      "link": "https://github.com/naziya2002/Utilities.git",
+      "nameOnHover": "NAZIYA ANJUM"
+    }
+   ]
+  },
+  {
+    "username": "NADIA SADAF",
+    "avatar": "https://www.hiretheright.com/wp-content/uploads/2016/11/ik_optest-300x300.png",
+    "socialMedia": [
+      {
+        "link": "https://github.com/NADIA-SADAF",
+        "nameOnHover": "SADAF"
+      }
+    ]
+  },
+  {
+  "username": "Nazish Ahmed",
+  "avatar": "https://avatars.githubusercontent.com/u/84974655?v=4",
+  "socialMedia": [
+    {
+      "link": "https://github.com/nazish-16",
+      "nameOnHover": "Nazzish"
+    }
+  ]
+  },
+  {
+    "username": "Mohd Zeeshan ",
+    "avatar": "https://i.pinimg.com/originals/0f/3e/90/0f3e90aa5d5b871a172e5445a521d512.jpg",
+    "socialMedia": [
+      {
+        "link": "https://github.com/zappy586",
+        "nameOnHover": "Revenge is a fool's game"
+      }
+     ]
+  },
+  {
+    "username": "SUFYII",
+    "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFlower&psig=AOvVaw3KpaUwwJi5eMsLF74fSMyC&ust=1666951162867000&source=images&cd=vfe&ved=2ahUKEwiNntGQk4D7AhWiKbcAHRNyA7EQr4kDegUIARDnAQ",
+    "socialMedia": [
+      {
+        "link": "https://github.com/sufyii454",
+        "nameOnHover": "SUFYII"
+      }
+     ]
+   }
 ]
