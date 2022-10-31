@@ -1,6 +1,8 @@
 # Utilities
 
 ACM MJCET utility library for multiple languages.
+You can watch this video if you want to contribute to this repository.
+https://www.youtube.com/watch?v=qS_nOaumLaQ
 
 ## ✨Getting Started :
 
