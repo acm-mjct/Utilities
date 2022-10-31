@@ -8,7 +8,7 @@ int main()
     char ch;
     printf("Enter the size of password: ");
     scanf("%d",&n);
-    printf("\nThe Password is: ");
+    printf("\nThe  Password is: ");
     for(i=0;i<n;i++)
     {
       ch=(rand()%(92))+33; 
